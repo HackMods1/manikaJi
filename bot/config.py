@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "6537809505:AAFUARa4bhSNzQmB0-vgFXKNGrhAuejX1WM"
+    APP_ID = "1675220"
+    API_HASH = "75e7eb5a8b1b6e1ea81a7db7a79c4752"
+    DATABASE_URL = "mongodb+srv://moviezine1:fuP2foh7cYmMCL01@cluster0.d6g2l1g.mongodb.net/?retryWrites=true&w=majority"
+    SUDO_USERS = "1119063013" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/+IO131kW47oA5ZTQ1"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "226033274096-u1gkmrkia4pd7k12ii5866240sj8mbi8.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
 
 
 class BotCommands:
